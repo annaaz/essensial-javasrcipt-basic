@@ -1,1 +1,1 @@
-# essensial-javasrcipt-basic
+# Essensial Javasrcipt Basic
